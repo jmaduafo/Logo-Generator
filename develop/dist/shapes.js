@@ -23,7 +23,7 @@ class Square extends Shapes {
 
 class Triangle extends Shapes {
     render() {
-        return `<polygon points="0,170 200,170 100,0" fill="${this.color}"/>`
+        return `<polygon height="100%" width="100%" points="0,170 200,170 100,0" fill="${this.color}"/>`
      
     }
 }
