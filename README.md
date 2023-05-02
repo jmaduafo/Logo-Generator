@@ -38,7 +38,8 @@ For the assignment, you would need to install the package.json by simply enterin
 
 First, it would be run by entering "node index.js" in the terminal. The user would then be asked a series of questions about how they would want their svg file to look. They are asked the text color, the shape color, and they'd need to pick a shape of their choosing. They would also need to enter in a text no more than three characters long. This is to ensure that the characters fit perfectly within the selected shape. Once the information is entered appropriately, a logo within a svg file would then be produced for the user to view and use to their liking.
 
-[screen-capture (3).webm](https://user-images.githubusercontent.com/87540591/235498654-f8603ae2-31fa-4655-b9c2-b8c6788561fe.webm)
+[logo-gen-with-test.webm](https://user-images.githubusercontent.com/87540591/235567669-9dbbd37d-5368-47ff-a962-7f034f0c6f91.webm)
+
 
 ## Contributions
 
@@ -50,7 +51,7 @@ N/A
 
 ## Tests
 
-Test to make sure it fails and then test to make sure it passes. The tests are within the "dist" folder.
+To run the test, first install "jest" globally by typing in "npm i --save-dev jest" and run it in the integrated terminal with "npm test". All the tests should pass.
 
 ## Questions
 
