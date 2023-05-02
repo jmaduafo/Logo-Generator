@@ -50,7 +50,7 @@ N/A
 
 ## Tests
 
-Test to make sure it fails and then test to make sure it passes. The tests are within the "dist" folder.
+To run the test, first install "jest" globally by typing in "npm i --save-dev jest" and run it in the integrated terminal with "npm test". All the tests should pass.
 
 ## Questions
 
