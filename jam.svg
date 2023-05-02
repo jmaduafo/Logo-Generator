@@ -1,2 +1,2 @@
-<svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"><rect x="5" y="5" width="400" height="400" fill="pink"/><text x="100" y="120" font-size="40" text-anchor="middle" fill="black">JAM</text>
+<svg width="200" height="200" version="1.1" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="105" r="80" fill="pink"/><text x="100" y="120" font-size="40" text-anchor="middle" fill="black">JAM</text>
         </svg>
